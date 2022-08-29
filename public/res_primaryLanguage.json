@@ -1,0 +1,190 @@
+{
+    "basic_info": {
+      "description_header": "Hello!",
+      "description": "My name is Anika Singh and I am currently a senior at the University of Texas at Austin studying Electrical and Computer Engineering. I have strong experience in full stack development as well as machine learning. Some relevant coursework I have taken is Data Science, Software Lab, Software Implementation Design I & II, Robot Learning (Machine Learning), Data Structures & Algorithms",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Oracle Feedback Survey FullStack Application",
+        "startDate": "2022",
+        "description": "Developed full stack application for survey creation, survey distribution, and survey analytics. The application is geared towards helped small buisnesses gather user surveys and perform data analysis within our application. The application was build in collaboration with Oracle engineers. Developed using frameworks such as HTML/CSS/Javascript, React.js, and Bootstrap, and using use REST API for architecture style and Django for the server-side web framework.",
+        "images": [
+          "images/portfolio/animal-shelter/oci.jpeg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Hardware-as-a-Service (HaaS) FullStack Application",
+        "startDate": "2022",
+        "description": "The project is to create a functioning Haas (Hardware-as-a-Service) application to rent out hardware resources to users. A user can log into the application and create collaborative projects to rent our hardware resources. Additionally, they can regulate and manage available hardware resources and datasets in the system. Developed API to handle post/get requests, stored data in MongoDB, and deployed using Heroku",
+        "images": [
+          "images/portfolio/photography/haas.jpeg"        ],
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-heroku-plain",
+            "name": "Heroku"
+          }
+        ]
+      },
+      {
+        "title": "Hackathon: UT Austin WiCS Community Hackathon Winner",
+        "startDate": "2022",
+        "description": "Link to presentation above! Won UT Austin WiCS Community Hackathon Winner in 2022. Created an application to help women find safe housing and used collaborative filtering recommendation system",
+        "images": [
+          "images/portfolio/adventure/ut.jpeg"        ],       
+        "url": "https://docs.google.com/presentation/d/1kQN6l4Zcw2k5Lz1iia-pZh8S83caSQ0pBMK9_MrUlLY/edit?usp=sharing", 
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Hackathon: UT Austin WiCS Bloomberg Hackathon Winner",
+        "startDate": "2020",
+        "description": "Link to presentation above! Won UT Austin WiCS Bloomberg Hackathon Winner in 2020. Created an application to help veterans budget their finances",
+        "images": [
+          "images/portfolio/adventure/ut.jpeg"        ],       
+        "url": "https://docs.google.com/presentation/d/1cvYkdjGO55KmVOE_r9-oczRF7n-1pnF6NhQQPe_aJOQ/edit?usp=sharing",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Can We Teach a Machine ASL?",
+        "startDate": "2022",
+        "description": "Link to competition above! Won first place course Data Science Principles project. Developed computer vision models to give accurate ASL predictions. Did real time OpenCV ASL image recognition",
+        "images": [
+          "images/portfolio/adventure/asl2.png"        ],       
+        "url": "https://www.ece.utexas.edu/news/texas-ece-course-competition-winners"
+      },
+      {
+        "title": "Comparing Car Auctions versus Third Party Sellers using Machine Learning",
+        "startDate": "2022",
+        "description": "Link to article above! Explored different machine learning algorithms to analyze how auction sales compare to third party sellers. Performed sentiment and image analysis with convolution neural networks",
+        "images": [
+          "images/portfolio/adventure/auction.png"        ],       
+        "url": "https://medium.com/@koushik.chenna/comparing-car-auctions-versus-third-party-sellers-using-machine-learning-fb6f2fbbb3ff"
+        
+      }
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Software Engineering Intern",
+        "years": "May 2022 - August 2022",
+        "desc" : [
+          "Improved Facebook Stories Recommendations Ranking models by implementing novel end-to-end Self-Attention deep learning model infrastructure with Pytorch. Designed data pipelines Big Data model training using Spark, Hive, and Presto (SQL)"
+        ],
+        "technologies": [
+         "Pytorch",
+         "Python",
+         "SQL (Spark/Presto)",
+         "Hack (PHP)",
+         "Self-Attention",
+         "seq2seq Models",
+         "Recommendation Systems"
+        ]
+      },
+      {
+        "company": "Facebook",
+        "title": "Software Engineering Intern",
+        "years": "May 2021 - August 2021",
+       "desc" : "Worked on the Facebook Ads Identity Matching team to improve Identity Matching models, matches ad events with Facebook users, using machine learning. Implemented methods in Python and Hack (PHP) to support Semi-Supervised Learning and Transfer Learning within Facebook Ad’s Deep Learning libraries. Analyzed the improvement of implemented models and performed hyperparameter tuning, by running approaches on Big Data, utilizing technologies such as Hive and Presto (SQL) to do the appropriate feature engineering",
+        "technologies": [
+          "Pytorch",
+          "Python",
+          "Hack (PHP)",
+          "SQL (Spark)",
+          "Semi-Supervised Learning",
+          "Transfer Learning"
+        ]
+      },
+      {
+        "company": "Autonomous Systems Group, University of Texas at Austin",
+        "title": "Research Intern",
+        "years": "June 2020 - May 2021",
+       "desc" : "Published author on From Agile Ground to Aerial Navigation: Learning from Learned Hallucination to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2021. Formulated unit testing system for autonomous drone performance using computer vision and translated learned autonomous drone behaviors into 3D space through ray tracing. Designed high-level autonomous capability drones for navigation, perception, SLAM/VIO, object detection (YOLO library) in 3D environments using ROS and Gazebo simulation in Python and C++",
+        "technologies": [
+          "Pytorch",
+          "Python",
+          "C++",
+          "ROS/Gazebo",
+          "Autonomous Navigation",
+          "Object Detection"
+        ]
+      },
+      {
+        "company": "Neuroscience and CS Group, University of Texas at Austin",
+        "title": "Research Intern",
+        "years": "August 2020 - May 2021",
+        "desc" : "Designed new sampling technique in Python for tactile sensing project to better simulate human behavior. Awarded NCWIT (National Center for Women and Information Technology) Collegiate Research Award National Finalist for Object Classification Using Segments of Point Cloud Data for Tactile Sensing",
+        "technologies": [
+          "Pytorch",
+          "Python",
+          "Tactile Sensing",
+          "PointCloud"
+        ]
+      }
+    ]
+  }
