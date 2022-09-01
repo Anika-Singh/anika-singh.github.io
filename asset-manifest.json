@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/personal-site/static/css/main.db6f0745.chunk.css",
-    "main.js": "/personal-site/static/js/main.f80675ae.chunk.js",
-    "main.js.map": "/personal-site/static/js/main.f80675ae.chunk.js.map",
-    "runtime-main.js": "/personal-site/static/js/runtime-main.aefce35a.js",
-    "runtime-main.js.map": "/personal-site/static/js/runtime-main.aefce35a.js.map",
-    "static/css/2.d64471e2.chunk.css": "/personal-site/static/css/2.d64471e2.chunk.css",
-    "static/js/2.6a586009.chunk.js": "/personal-site/static/js/2.6a586009.chunk.js",
-    "static/js/2.6a586009.chunk.js.map": "/personal-site/static/js/2.6a586009.chunk.js.map",
-    "index.html": "/personal-site/index.html",
-    "precache-manifest.3ef379b47433fb4fdb84b7243f0beee8.js": "/personal-site/precache-manifest.3ef379b47433fb4fdb84b7243f0beee8.js",
-    "service-worker.js": "/personal-site/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/personal-site/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.db6f0745.chunk.css.map": "/personal-site/static/css/main.db6f0745.chunk.css.map",
-    "static/js/2.6a586009.chunk.js.LICENSE.txt": "/personal-site/static/js/2.6a586009.chunk.js.LICENSE.txt"
+    "main.css": "/anikasingh.github.io/static/css/main.db6f0745.chunk.css",
+    "main.js": "/anikasingh.github.io/static/js/main.fa490835.chunk.js",
+    "main.js.map": "/anikasingh.github.io/static/js/main.fa490835.chunk.js.map",
+    "runtime-main.js": "/anikasingh.github.io/static/js/runtime-main.9c5d97fb.js",
+    "runtime-main.js.map": "/anikasingh.github.io/static/js/runtime-main.9c5d97fb.js.map",
+    "static/css/2.d64471e2.chunk.css": "/anikasingh.github.io/static/css/2.d64471e2.chunk.css",
+    "static/js/2.6a586009.chunk.js": "/anikasingh.github.io/static/js/2.6a586009.chunk.js",
+    "static/js/2.6a586009.chunk.js.map": "/anikasingh.github.io/static/js/2.6a586009.chunk.js.map",
+    "index.html": "/anikasingh.github.io/index.html",
+    "precache-manifest.028544bb06d7b5c9561059cfc663fe55.js": "/anikasingh.github.io/precache-manifest.028544bb06d7b5c9561059cfc663fe55.js",
+    "service-worker.js": "/anikasingh.github.io/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/anikasingh.github.io/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db6f0745.chunk.css.map": "/anikasingh.github.io/static/css/main.db6f0745.chunk.css.map",
+    "static/js/2.6a586009.chunk.js.LICENSE.txt": "/anikasingh.github.io/static/js/2.6a586009.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aefce35a.js",
+    "static/js/runtime-main.9c5d97fb.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.6a586009.chunk.js",
     "static/css/main.db6f0745.chunk.css",
-    "static/js/main.f80675ae.chunk.js"
+    "static/js/main.fa490835.chunk.js"
   ]
 }
