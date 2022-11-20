@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello!",
-      "description": "My name is Anika Singh and I am currently a senior at the University of Texas at Austin studying Electrical and Computer Engineering. I have strong experience in full stack development as well as machine learning. Some relevant coursework I have taken is Data Science, Software Lab, Software Implementation Design I & II, Robot Learning (Machine Learning), Data Structures & Algorithms",
+      "description": "My name is Anika Singh and I am currently a senior at the University of Texas at Austin studying Electrical and Computer Engineering. I have experience in full stack development as well as machine learning. Some relevant coursework I have taken is Data Science, Software Lab, Software Implementation Design I & II, Robot Learning (Machine Learning), Data Structures & Algorithms",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -129,6 +129,20 @@
       }
     ],
     "experience": [
+      {
+        "company": "Robinhood",
+        "title": "Software Engineering Intern",
+        "years": "September 2022 - December 2022",
+        "desc" : [
+          "Developed history logging feature for AB testing platform in ML experimentation team using React, Django, and SQL. Created backend API endpoints to fetch data from database."
+        ],
+        "technologies": [
+         "React",
+         "Python",
+         "SQL (Postgres/Presto)",
+         "Django"
+        ]
+      },
       {
         "company": "Meta",
         "title": "Software Engineering Intern",
