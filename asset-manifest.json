@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/anikasingh.github.io/static/css/main.db6f0745.chunk.css",
-    "main.js": "/anikasingh.github.io/static/js/main.fa490835.chunk.js",
-    "main.js.map": "/anikasingh.github.io/static/js/main.fa490835.chunk.js.map",
-    "runtime-main.js": "/anikasingh.github.io/static/js/runtime-main.9c5d97fb.js",
-    "runtime-main.js.map": "/anikasingh.github.io/static/js/runtime-main.9c5d97fb.js.map",
-    "static/css/2.d64471e2.chunk.css": "/anikasingh.github.io/static/css/2.d64471e2.chunk.css",
-    "static/js/2.6a586009.chunk.js": "/anikasingh.github.io/static/js/2.6a586009.chunk.js",
-    "static/js/2.6a586009.chunk.js.map": "/anikasingh.github.io/static/js/2.6a586009.chunk.js.map",
-    "index.html": "/anikasingh.github.io/index.html",
-    "precache-manifest.028544bb06d7b5c9561059cfc663fe55.js": "/anikasingh.github.io/precache-manifest.028544bb06d7b5c9561059cfc663fe55.js",
-    "service-worker.js": "/anikasingh.github.io/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/anikasingh.github.io/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.db6f0745.chunk.css.map": "/anikasingh.github.io/static/css/main.db6f0745.chunk.css.map",
-    "static/js/2.6a586009.chunk.js.LICENSE.txt": "/anikasingh.github.io/static/js/2.6a586009.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.db6f0745.chunk.css",
+    "main.js": "/static/js/main.28d700f8.chunk.js",
+    "main.js.map": "/static/js/main.28d700f8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a5042f6b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a5042f6b.js.map",
+    "static/css/2.d64471e2.chunk.css": "/static/css/2.d64471e2.chunk.css",
+    "static/js/2.6a586009.chunk.js": "/static/js/2.6a586009.chunk.js",
+    "static/js/2.6a586009.chunk.js.map": "/static/js/2.6a586009.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.658ad6c4758cfe5cb62fa5c6e682491a.js": "/precache-manifest.658ad6c4758cfe5cb62fa5c6e682491a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db6f0745.chunk.css.map": "/static/css/main.db6f0745.chunk.css.map",
+    "static/js/2.6a586009.chunk.js.LICENSE.txt": "/static/js/2.6a586009.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c5d97fb.js",
+    "static/js/runtime-main.a5042f6b.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.6a586009.chunk.js",
     "static/css/main.db6f0745.chunk.css",
-    "static/js/main.fa490835.chunk.js"
+    "static/js/main.28d700f8.chunk.js"
   ]
 }
