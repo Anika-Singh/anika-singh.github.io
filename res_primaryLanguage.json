@@ -68,6 +68,41 @@
         ]
       },
       {
+        "title": "Robinhood Hackathon for Social Good 2nd Place Winner",
+        "startDate": "2022",
+        "description": "Created full-stack application to create an application which crowdsources information in real-time on environmental hazards, recycling info, air pollution, chemical exposures. Organizations can host events based on crowd source info, social incentives. We created a social network of people to encourage awareness of environmental issues",
+        "images": [
+          "images/portfolio/animal-shelter/robinhood.png"
+        ],
+        "url": "https://github.com/Anika-Singh/Robinhood-Hackathon",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
         "title": "Hardware-as-a-Service (HaaS) FullStack Application",
         "startDate": "2022",
         "description": "The project is to create a functioning Haas (Hardware-as-a-Service) application to rent out hardware resources to users. A user can log into the application and create collaborative projects to rent our hardware resources. Additionally, they can regulate and manage available hardware resources and datasets in the system. Developed API to handle post/get requests, stored data in MongoDB, and deployed using Heroku",
