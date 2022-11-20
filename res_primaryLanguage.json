@@ -11,6 +11,28 @@
     },
     "projects": [
       {
+        "title": "From Agile Ground to Aerial Navigation: Learning from Learned Hallucination Research Paper",
+        "startDate": "2021",
+        "description": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2021. View paper: https://arxiv.org/pdf/2108.09793.pdf",
+        "images": [
+          "images/portfolio/animal-shelter/drone.png"
+        ],
+        "url": "https://arxiv.org/pdf/2108.09793.pdf",
+        "technologies": [
+        ]
+      },
+      {
+        "title": "Object Classification Using Segments of Point Cloud Data for Tactile Sensing",
+        "startDate": "2022",
+        "description": "Won The National Center for Women & Information Technology (NCWIT) Finalists for the 2021 NCWIT Collegiate Award",
+        "images": [
+          "images/portfolio/animal-shelter/ncwit.png"
+        ],
+        "url": "https://www.aspirations.org/news/2021-ncwit-collegiate-award-finalists-announced",
+        "technologies": [
+        ]
+      },
+      {
         "title": "Oracle Feedback Survey FullStack Application",
         "startDate": "2022",
         "description": "Developed full-stack application for survey creation, survey distribution, and survey analytics. The application is geared towards helped small buisnesses gather user surveys and perform data analysis within our application. The application was build in collaboration with Oracle engineers. Developed using frameworks such as HTML/CSS/Javascript, React.js, and Bootstrap, and using use REST API for architecture style and Django for the server-side web framework.",
