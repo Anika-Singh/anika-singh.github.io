@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/anikasingh.github.io/static/css/main.db6f0745.chunk.css",
     "main.js": "/anikasingh.github.io/static/js/main.fa490835.chunk.js",
     "main.js.map": "/anikasingh.github.io/static/js/main.fa490835.chunk.js.map",
@@ -14,6 +15,22 @@
     "static/css/2.d64471e2.chunk.css.map": "/anikasingh.github.io/static/css/2.d64471e2.chunk.css.map",
     "static/css/main.db6f0745.chunk.css.map": "/anikasingh.github.io/static/css/main.db6f0745.chunk.css.map",
     "static/js/2.6a586009.chunk.js.LICENSE.txt": "/anikasingh.github.io/static/js/2.6a586009.chunk.js.LICENSE.txt"
+=======
+    "main.css": "/static/css/main.db6f0745.chunk.css",
+    "main.js": "/static/js/main.28d700f8.chunk.js",
+    "main.js.map": "/static/js/main.28d700f8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a5042f6b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a5042f6b.js.map",
+    "static/css/2.d64471e2.chunk.css": "/static/css/2.d64471e2.chunk.css",
+    "static/js/2.6a586009.chunk.js": "/static/js/2.6a586009.chunk.js",
+    "static/js/2.6a586009.chunk.js.map": "/static/js/2.6a586009.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.358fbf111a5d67d71e4dc5a8ae25a058.js": "/precache-manifest.358fbf111a5d67d71e4dc5a8ae25a058.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db6f0745.chunk.css.map": "/static/css/main.db6f0745.chunk.css.map",
+    "static/js/2.6a586009.chunk.js.LICENSE.txt": "/static/js/2.6a586009.chunk.js.LICENSE.txt"
+>>>>>>> parent of b9260fc9... update
   },
   "entrypoints": [
     "static/js/runtime-main.9c5d97fb.js",
